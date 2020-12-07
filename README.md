@@ -11,4 +11,6 @@ Level 1 had 3 2 choices and that was all I had to start with.
 
 Hopoefully someone may find this useful.
 
-I amd just learning dash so at least i have it now.
+I am just learning dash so at least I have it now.
+
+This was created and tested woth Python 3.8.3
